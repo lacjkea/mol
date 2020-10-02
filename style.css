@@ -3,7 +3,7 @@
     background-size: cover;
     background-image: url(img/fruits_header.jpg);
     background-position: 50% 00%;
-    background-blend-mode:
+    height: 50vw;
 }
 
 nav {
@@ -24,6 +24,10 @@ h1 {
     color: #8E4444;
 }
 
+h2 {
+    color: white;
+}
+
 .display-4 {
     /*font-size: 200px;*/
 }
@@ -33,6 +37,28 @@ h1 {
     color: #8E4444;
 }
 
-#products {
+.products {
+    background-image: url(img/background_products.svg);
+    height: 65vw;
+}
+
+.transparent_box1 {
     background-color: #8E4444;
+    border-radius: 0 25px 25px 0;
+    opacity: 0.6;
+
+}
+
+.transparent_box2 {
+    background-color: white;
+    border-radius: 25px 25px 25px 25px;
+    opacity: 0.7;
+    height: 50vw;
+    margin 20px;
+
+}
+
+.products {
+    opacity: 1;
+
 }
