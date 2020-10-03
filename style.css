@@ -39,16 +39,18 @@ h2 {
 
 .products {
     background-image: url(img/background_products.svg);
-    height: 65vw;
+    height: 66vw;
 }
 
 .sustainability {
     background-image: url(img/background_sustainability.svg);
+    background-size: cover;
     height: 70vw;
 }
 
 .about_us {
     background-image: url(img/background_about_us.svg);
+    background-size: cover;
     height: 71vw;
 }
 
