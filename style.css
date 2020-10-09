@@ -28,10 +28,6 @@ h2 {
     color: white;
 }
 
-.display-4 {
-    /*font-size: 200px;*/
-}
-
 .btn {
     background-color: #EDB554;
     color: #8E4444;
@@ -39,7 +35,7 @@ h2 {
 
 .products {
     background-image: url(img/background_products.svg);
-    height: 66vw;
+    height: 65vw;
 }
 
 .sustainability {
