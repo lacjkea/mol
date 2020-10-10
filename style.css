@@ -1,75 +1,77 @@
 .header {
-    background-color: #FFD9CD;
-    background-size: cover;
-    background-image: url(img/fruits_header.jpg);
-    background-position: 50% 00%;
-    height: 50vw;
+  background-color: #FFD9CD;
+  background-size: cover;
+  background-image: url(img/fruits_header.jpg);
+  background-position: 50% 00%;
+  height: 50vw;
 }
 
 nav {
-    background-color: #FFD9CD;
-    color: #8E4444;
+  background-color: #FFD9CD;
+  color: #8E4444;
 }
 
 .nav-link:hover {
-    color: #8E4444;
-    text-decoration: underline;
+  color: #8E4444;
+  text-decoration: underline;
 }
 
 a {
-    color: #8E4444;
+  color: #8E4444;
 }
 
 h1 {
-    color: #8E4444;
+  color: #8E4444;
 }
 
 h2 {
-    color: white;
+  color: white;
 }
 
 .btn {
-    background-color: #EDB554;
-    color: #8E4444;
+  background-color: #EDB554;
+  color: #8E4444;
 }
 
 .products {
-    background-image: url(img/background_products.svg);
-    height: 65vw;
+  background-image: url(img/background_products.svg);
+  /*    height: 65vw; lacj */
+  background-size: cover;
+  background-position: 25% 50%;
 }
 
 .sustainability {
-    background-image: url(img/background_sustainability.svg);
-    background-size: cover;
-    height: 70vw;
+  background-image: url(img/background_sustainability.svg);
+  background-size: cover;
+  /*  height: 70vw;*/
 }
 
 .about_us {
-    background-image: url(img/background_about_us.svg);
-    background-size: cover;
-    height: 71vw;
+  background-image: url(img/background_about_us.svg);
+  background-size: cover;
+  /*  height: 71vw;*/
 }
 
 .transparent_box1 {
-    background-color: #8E4444;
-    border-radius: 0 25px 25px 0;
-    opacity: 0.6;
+  background-color: #8E4444;
+  border-radius: 0 25px 25px 0;
+  opacity: 0.6;
 
 }
 
 .transparent_box2 {
-    background-color: rgb(255 255 255 / 0.7);
-    border-radius: 25px 25px 25px 25px;
+  background-color: rgb(255 255 255 / 0.7);
+  border-radius: 25px 25px 25px 25px;
+  /*
     height: 50vw;
     margin 20px;
-
+*/
 }
 
 .products {
-    opacity: 1;
-
+  opacity: 1;
 }
 
 footer {
-    background-color: #C59D87;
+  background-color: #C59D87;
 }
